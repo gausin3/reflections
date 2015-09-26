@@ -1,0 +1,21 @@
+hi
+
+I am gaurav
+
+Learning GIT concept.
+
+I learn fast.
+
+protection against failure
+Better version control
+
+codes are more connected than docs
+
+git logs
+git diff
+
+We can checkout previous version
+
+version control
+
+git add lesson_1_reflections.txt
